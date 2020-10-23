@@ -32,7 +32,7 @@ The process/approach we will be taking in this project will follow these steps:
 8. Pseudo Deployment
 9. Findings & Conclusion
 ### 1.4 Findings
-These are the brief heighlights of our findings:
+These are the brief highlights of our findings:
 
 * Time domain features are better predictors than frequency domain features.
 
